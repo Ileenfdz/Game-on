@@ -1,0 +1,9 @@
+body{
+    background-color: lightblue;
+}
+
+.petals-btn{
+    border-radius: 50px;
+    width: 2em;
+    height: 2em;
+}

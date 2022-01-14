@@ -1,0 +1,21 @@
+@import './imports.css';
+
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+	border: none;
+	outline: none;
+}
+
+footer {
+    position: relative;
+}
+
+.copyright-div{
+	/*Poner al final de la página */
+	width: auto;
+	height: 2em;
+	background-color: brown;
+}
